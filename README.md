@@ -44,9 +44,15 @@ This automated detection enhances site safety by providing instant alerts and re
 
 ## 📂 Project Structure
 ├── realtime_monitoring_ML_pro1.ipynb # ML model training & evaluation
+
 ├── Construction_Data_PM_Forms_All_Projects.csv # Dataset
+
 ├── utilsmonitorsite.py # Helper functions
+
 ├── main.py # Streamlit app
+
 ├── FINALREPORTML.docx # Project Report
+
 ├── deployment link # Live deployment / demo
+
 └── README.md # Documentation
